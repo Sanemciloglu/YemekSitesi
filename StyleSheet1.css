@@ -1,0 +1,27 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 17px;
+    color: #996600;
+}
+.tb3 {
+    border: 2px dashed #D1C7AC;
+    }
+.fb9 {
+    border: 2px solid ;
+    background-color: #FFFF66;
+}
+    .fb9:hover {
+        border: 2px dotted #FF6633;
+        color: #FF6600;
+        font-weight: bold;
+    }
+.ys {
+    font-size: 15px;
+    font-family: 'Segoe UI';
+}
